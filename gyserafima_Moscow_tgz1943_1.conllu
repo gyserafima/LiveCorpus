@@ -1,0 +1,237 @@
+# newpar
+# sent_id = 49
+# text = нуу / вот в переездах прошла моя / аа / я / вообще-то меня воспитывали бабушка с дедушкой / в основном / я у них жила / потому что / у родителей было еще помимо меня трое детей / три девочки / вот / так что четверо девочек
+1	нуу	нуу	INTJ	_	Degree=Pos	0	root	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	вот	вот	PART	_	_	5	advmod	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	переездах	переезды	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	6	obl	_	_
+6	прошла	пройти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+7	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	9	det	_	_
+8	/	/	PUNCT	_	_	7	punct	_	_
+9	аа	аа	INTJ	_	
+10	/	/	PUNCT	_	_	17	punct	_	_
+11	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	17	nsubj	_	_
+12	/	/	PUNCT	_	_	17	punct	_	_
+13	вообще	вообще	ADV	_	Degree=Pos	17	advmod	_	SpaceAfter=No
+14	-	-	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	то	то	PART	_	_	13	discourse	_	_
+16	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	17	obj	_	_
+17	воспитывали	воспитывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	parataxis	_	_
+18	бабушка	бабушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	28	nsubj	_	_
+19	с	с	ADP	_	_	20	case	_	_
+20	дедушкой	дедушка	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	28	obl	_	_
+21	/	/	PUNCT	_	_	20	punct	_	_
+22	в	в	ADP	_	_	23	case	_	_
+23	основном	основное	!ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	28	obl	_	_
+24	/	/	PUNCT	_	_	23	punct	_	_
+25	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	28	nsubj	_	_
+26	у	у	ADP	_	_	27	case	_	_
+27	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	28	obl	_	_
+28	жила	жить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	parataxis	_	_
+29	/	/	PUNCT	_	_	28	punct	_	_
+30	потому	потому	ADV	_	Degree=Pos	38	mark	_	_
+31	что	что	SCONJ	_	_	30	fixed	_	_
+32	/	/	PUNCT	_	_	38	punct	_	_
+33	у	у	ADP	_	_	34	case	_	_
+34	родителей	родитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	38	nmod	_	_
+35	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	38	cop	_	_
+36	еще	еще	ADV	_	Degree=Pos	38	obl	_	_
+37	помимо	помимо	ADP	_	_	38	case	_	_
+38	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	28	advcl	_	_
+39	трое	трое	NUM	_	Case=Nom	40	nummod:gov	_	_
+40	детей	ребенок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	38	nsubj	_	_
+41	/	/	PUNCT	_	_	43	punct	_	_
+42	три	три	NUM	_	Case=Nom	43	nummod:gov	_	_
+43	девочки	девочка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	40	nmod	_	_
+44	/	/	PUNCT	_	_	43	punct	_	_
+45	вот	вот	PART	_	_	50	advmod	_	_
+46	/	/	PUNCT	_	_	50	punct	_	_
+47	так	так	ADV	_	Degree=Pos	50	mark	_	_
+48	что	что	SCONJ	_	_	47	fixed	_	_
+49	четверо	четверо	NUM	_	Case=Nom	50	nummod:gov	_	_
+50	девочек	девочка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	43	conj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 51
+# text = вот
+1	вот	вот	PART	_	_  	advmod	_	_
+
+# newpar
+# sent_id = 53
+# text = окончила школу / мама работала / да?
+1	окончила	окончить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	школу	школа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
+3	/	/	PUNCT	_	_	5	punct	_	_
+4	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+5	работала	работать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	SpaceAfter=No
+6	/	/	PUNCT	_	_	9	punct	_	_
+7	да	да	PART	_	_	5	parataxis	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 55
+# text = был вопрос / да?
+1	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	_
+2	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	/	/	PUNCT	_	_	2	punct	_	_
+4	да	да	PART	_	_	2	advmod	_	SpaceAfter=No
+5	?	?	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 57
+# text = а-а / относительно где мама
+1	а-а	а-а	INTJ	_	
+2	/	/	PUNCT	_	_	6	punct	_	_
+3	относительно	относительно	ADV	_	Degree=Pos	6	advmod	_	_
+4	где	где	ADV	_	Degree=Pos	0	root	_	_
+5	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 59
+# text = угу
+1	угу	угу	!NOUN	_	!Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 61
+# text = чем занималась / ну поскольку она закончила десятилетку очень хотела учит...
+1	чем	что	SCONJ	_	_	2	mark	_	_
+2	занималась	заниматься	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	10	advcl	_	_
+3	/	/	PUNCT	_	_	7	punct	_	_
+4	ну	ну	PART	_	_	10	discourse	_	_
+5	поскольку	поскольку	SCONJ	_	_	7	mark	_	_
+6	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nsubj	_	_
+7	закончила	закончить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	ccomp	_	_
+8	десятилетку	десятилетка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
+9	очень	очень	ADV	_	Degree=Pos	10	advmod	_	_
+10	хотела	хотеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	учит	учиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	conj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	11	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	10	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 63
+# text = па...пойти / учиться на врача / но / моя бабушка / то есть её мама / Вера Максимовна / её никак не пус..
+1!	па.	пойти	PROPN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2!	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3!	.пойти	.пойти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	_
+4	/	/	PUNCT	_	_	3	punct	_	_
+5	учиться	учиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	3	xcomp	_	_
+6	на	на	ADP	_	_	7	case	_	_
+7	врача	врач	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	obl	_	_
+8	/	/	PUNCT	_	_	25	punct	_	_
+9	но	но	CCONJ	_	_	25	cc	_	_
+10	/	/	PUNCT	_	_	25	punct	_	_
+11	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	12	det	_	_
+12	бабушка	бабушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	25	nsubj	_	_
+13	/	/	PUNCT	_	_	17	punct	_	_
+14	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17	mark	_	_
+15	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	fixed	_	_
+16	её	ее	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	17	nmod	_	_
+17	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	12	parataxis	_	_
+18	/	/	PUNCT	_	_	12	punct	_	_
+19	Вера	Вера	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	12	appos	_	_
+20	Максимовна	Максимовна	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	19	flat:name	_	_
+21	/	/	PUNCT	_	_	12	punct	_	_
+22	её	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	25	nmod	_	_
+23	никак	никак	ADV	_	Degree=Pos	24	advmod	_	_
+24	не	не	PART	_	_	25	advmod	_	_
+25!	пус.	пустила	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	conj	_	SpaceAfter=No
+26!	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 64
+# text = не пустила
+1	не	не	ADV	_	Degree=Pos	2	advmod	_	_
+2	пустила	пустить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 66
+# text = угу
+1	!угу	угу	!NOUN	_	!Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 68
+# text = и так мама осталась / ну / р...
+1	и	и	CCONJ	_	_	4	cc	_	_
+2	так	так	ADV	_	Degree=Pos	4	advmod	_	_
+3	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+4	осталась	остаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	/	/	PUNCT	_	_	8	punct	_	_
+6	ну	ну	PART	_	_	8	parataxis	_	_
+7	/	/	PUNCT	_	_	6	punct	_	_
+8!	р.		NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	obl	_	SpaceAfter=No
+9!	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+10!	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 70
+# text = поскольку она щ...на то время была / достаточно грамотным человеком / она работала бухгалтером / в совхозе / вот / то он правда не совхоз был / это был па..
+1	поскольку	поскольку	SCONJ	_	_	4	mark	_	_
+2	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	nsubj:pass	_	_
+3!	щ.	щ.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	appos	_	SpaceAfter=No
+4!	..на	..на	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	14	advcl	_	_
+5	то	тот	DET	_	Case=Acc|Gender=Neut|Number=Sing	6	det	_	_
+6	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	nmod	_	_
+7	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	_	_
+8	/	/	PUNCT	_	_	7	punct	_	_
+9	достаточно	достаточно	ADV	_	Degree=Pos	10	obl	_	_
+10	грамотным	грамотный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	человеком	человек	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	4	obl	_	_
+12	/	/	PUNCT	_	_	4	punct	_	_
+13	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	14	nsubj	_	_
+14	работала	работать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+15	бухгалтером	бухгалтер	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	14	obl	_	_
+16	/	/	PUNCT	_	_	18	punct	_	_
+17	в	в	ADP	_	_	18	case	_	_
+18	совхозе	совхоз	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	nmod	_	_
+19	/	/	PUNCT	_	_	18	punct	_	_
+20	вот	вот	PART	_	_	18	advmod	_	_
+21	/	/	PUNCT	_	_	27	punct	_	_
+22	то	то	SCONJ	_	_	27	mark	_	_
+23	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	27	nsubj	_	_
+24	правда	правда	ADV	_	Degree=Pos	27	parataxis	_	_
+25	не	не	PART	_	_	26	advmod	_	_
+26	совхоз	совхоз	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	_
+27	был	быть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	parataxis	_	_
+28	/	/	PUNCT	_	_	31	punct	_	_
+29	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	31	nsubj	_	_
+30	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	31	cop	_	_
+31!	па.	па.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	27	conj	_	SpaceAfter=No
+32!	.	.	PUNCT	_	_	27	punct	_	SpaceAfter=No
+
+# sent_id = 71
+# text = МТС / машино-тракторная станция назывался / вот так назывался / рёбровская [смеется] / машино-тракторная станция
+1	МТС	мтс	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3!	машино	машино	ADJ	_	Degree=Pos	5	compound	_	SpaceAfter=No
+4!	-	-	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5!	тракторная	тракторный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	станция	станция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+7	назывался	называться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	parataxis	_	_
+8	/	/	PUNCT	_	_	11	punct	_	_
+9	вот	вот	PART	_	_	10	advmod	_	_
+10	так	так	ADV	_	Degree=Pos	11	advmod	_	_
+11	назывался	называться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	7	conj	_	_
+12	/	/	PUNCT	_	_	13	punct	_	_
+13	рёбровская	рёбровский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	nsubj	_	_
+14	[	[	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	смеется	смеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	13	parataxis	_	SpaceAfter=No
+16	]	]	PUNCT	_	_	15	punct	_	_
+17	/	/	PUNCT	_	_	21	punct	_	_
+18!	машино	машино	ADJ	_	Degree=Pos	20	compound	_	SpaceAfter=No
+19!	-	-	PUNCT	_	_	18	punct	_	SpaceAfter=No
+20!	тракторная	тракторный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	станция	станция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 73
+# text = а папа работал агрономом / а вот
+1	а	а	CCONJ	_	_	3	cc	_	_
+2	папа	папа	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	работал	работать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	агрономом	агроном	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	obl	_	_
+5	/	/	PUNCT	_	_	7	punct	_	_
+6	а	а	CCONJ	_	_	7	cc	_	_
+7	вот	вот	PART	_	_	3	conj	_	SpacesAfter=\n\n
+
